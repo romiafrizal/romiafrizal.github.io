@@ -23,18 +23,18 @@ sidebar:
 
     languages:
         - language:
-          idiom: English
+          idiom: Indonesia
           level: Native
                 
     interests:
         - interest:
-          item: Climbing
+          item: DevOps
           link:
         - interest:
-          item: Snowboarding
+          item: Cloud Computing
           link:
         - interest:
-          item: Cooking
+          item: Networking
           link:
 
         
