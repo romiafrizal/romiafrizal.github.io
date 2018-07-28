@@ -118,23 +118,23 @@ skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Python & Django
-          level: 98%
+          name: Ubuntu Server
+          level: 90%
         - skill:
-          name: Javascript & jQuery
-          level: 98%
+          name: Vagrant
+          level: 80%
         - skill:
-          name: Angular
-          level: 98%
+          name: Docker
+          level: 70%
         - skill:
-          name: HTML5 & CSS
-          level: 95%
-        - skill:
-          name: Ruby on Rails
-          level: 85%
-        - skill:
-          name: Sketch & Photoshop
-          level: 60%
+          name: AWS
+          level: 70%
+        #- skill:
+        #  name: Ruby on Rails
+        #  level: 85%
+        #- skill:
+        #  name: Sketch & Photoshop
+        #  level: 60%
 
 
 footer: 
