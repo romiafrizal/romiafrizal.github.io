@@ -49,9 +49,9 @@ career-profile:
 
 studies: 
     - education:
-      degree: Sekolah Dasar
-      university: MI NU 01 Prupuk Selatan, Tegal
-      time: 1997 – 2003
+      degree:  Bachelor of Education
+      university: STKIP Kusuma Negara
+      time: 2011 – 2015
       #details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
       #elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
       #magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
@@ -96,41 +96,41 @@ projects:
 
 publications:
     title: Publications
-    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    #intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
     
     publications:
-      - paper:
-        title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-      - paper:
-        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-      - paper:
-        title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - blog:
+        title: romifile.blogspot.com
+        authors: Romi Afrizal
+        conference: Jakarta, 2015
+     #- paper:
+        #title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        #authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        #conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+     #- paper:
+        #title: A syntax directed compiler for Algol 60
+        #authors: Edgar T. Irons
+        #conference: "Comm. ACM 4 (1961), 51–55"
 
 
 skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Ubuntu Server
+          name: Linux (Debian) 
           level: 90%
         - skill:
-          name: Vagrant
+          name: VM (Vagrant box)
           level: 80%
         - skill:
-          name: Docker
-          level: 70%
+          name: Container (Docker)
+          level: 75%
         - skill:
           name: AWS
-          level: 70%
-        #- skill:
-        #  name: Ruby on Rails
-        #  level: 85%
+          level: 75%
+        - skill:
+          name: Shell Script
+          level: 75%
         #- skill:
         #  name: Sketch & Photoshop
         #  level: 60%
