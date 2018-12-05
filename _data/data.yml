@@ -31,13 +31,14 @@ sidebar:
           item: DevOps
           link:
         - interest:
+          item: Linux
+          link:
+        - interest:
           item: Cloud Computing
           link:
         - interest:
           item: Networking
           link:
-
-        
 
 
 
