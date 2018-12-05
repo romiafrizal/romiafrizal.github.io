@@ -99,17 +99,12 @@ publications:
       - blog:
         title: romifile.blogspot.com
         authors: Romi Afrizal
-        conference: Jakarta, 2015
+        conference: Jakarta, 2016
      #- paper:
         #title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         #authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         #conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-     #- paper:
-        #title: A syntax directed compiler for Algol 60
-        #authors: Edgar T. Irons
-        #conference: "Comm. ACM 4 (1961), 51–55"
-
-
+     
 skills:
     title: Skills &amp; Proficiency
     skills:
