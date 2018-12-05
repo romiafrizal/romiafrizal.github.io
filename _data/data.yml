@@ -114,10 +114,10 @@ skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Linux (Debian) 
+          name: Linux (Debian, RedHat)
           level: 90%
         - skill:
-          name: VM (Vagrant box)
+          name: VM (Vagrant)
           level: 80%
         - skill:
           name: Container (Docker)
