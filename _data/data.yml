@@ -128,10 +128,10 @@ skills:
         - skill:
           name: Shell Script
           level: 75%
-        #- skill:
-        #  name: Sketch & Photoshop
-        #  level: 60%
+        - skill:
+          name: Versioning (git) 
+          level: 90%
 
 
 footer: 
-    text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
+    text: 'Theme by <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>'
