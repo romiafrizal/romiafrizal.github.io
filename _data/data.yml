@@ -119,7 +119,7 @@ skills:
           name: Container (Docker)
           level: 75%
         - skill:
-          name: Cloud (AWS, Alibaba Cloud)
+          name: Cloud (AWS)
           level: 75%
         - skill:
           name: Shell Script
