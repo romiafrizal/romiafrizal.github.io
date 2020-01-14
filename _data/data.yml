@@ -48,7 +48,7 @@ career-profile:
     text: '<h3> 2017-2020</h3> 
            <h4> DevOps at <a href="https://bobobobo.com" target="_blank">www.bobobobo.com</a></h4>
            <p>
-              <bold>Roles</bold>
+              <b>Roles:</b>
                 <ul>
                   <li>Build and Maintain CI/CD Pipeline on AWS.</li>
                   <li>Implement and improve monitoring and alerting.</li>
