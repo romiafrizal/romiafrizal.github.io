@@ -179,7 +179,7 @@ skills:
           name: Linux (Debian, RedHat)
           level: 90%
         - skill:
-          name: Cloud Computing (AWS,GCP)
+          name: Cloud (AWS,GCP)
           level: 90%
         - skill:
           name: VM (Vagrant)
