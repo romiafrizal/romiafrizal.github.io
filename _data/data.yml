@@ -15,7 +15,7 @@ sidebar:
     
     # Sidebar links
     email: romi.Afrizal@live.com
-    phone: 62822 1111 9236
+    # phone: 62822 1111 9236
     website: romiafrizal.github.io #do not add http://
     linkedin: romiafrizal
     github: romiafrizal
@@ -44,45 +44,69 @@ sidebar:
 
 
 career-profile: 
-    title: career-profile
+    title: Work experience
     text: '<h3> 2017-2020</h3> 
            <h4> DevOps at <a href="https://bobobobo.com" target="_blank">www.bobobobo.com</a></h4>
            <p>
               <b>Roles:</b>
                 <ul>
                   <li>Build and Maintain CI/CD Pipeline on AWS.</li>
+                  <li>Maintain AWS & GCP services as Administrator.</li>
+                  <li>Build and Maintain Kubernetes Cluster at GCP.</li>
                   <li>Implement and improve monitoring and alerting.</li>
-                  <li>Maintain daily performance of computer systems.</li>
-                  <li>Install, modify, and repair computer hardware and software.</li>
                   <li>Resolve technical problems with Local Area Networks (LAN), Wide Area Networks (WAN), and other systems.</li>
+                  <li>Install, modify, and repair computer hardware and software.</li>
                 </ul>
             </p>
             <br>
 
-          <h3> 2015-2015</h3> 
+          <h3> 2015-2017</h3> 
            <h4> IT Support at <a href="http://kopitiam.co.id" target="_blank">PT Bagus Kopitiam International</a></h4>
            <p>
               <b>Roles:</b>
                 <ul>
-                  <li>Resolve technical problems with Local Area Networks (LAN), Wide Area Networks (WAN), and other systems.</li>
-                  <li>Serving as the first point of contact for users seeking technical assistance  related to computer systems, software, and hardware.over the phone, email or other communication lines.</li>
+                  <li>Serving as the first point of contact for users seeking technical assistance  related to computer systems, software, and hardware over the phone, email or other communication lines.</li>
                   <li>Install, modify, and repair computer hardware and software.</li>
-                  <li>Resolve technical problems with Local Area Networks (LAN), Wide Area Networks (WAN), and other systems.</li>
+                  <li>Build and maintain VPN beetween HQ and Kopitiam branch/outlet.</li>
+                  <li>Maintain LAN & WAN.</li>
+                </ul>
+            </p>
+            <br>
+
+          <h3> 2014-2015</h3> 
+           <h4> IT Support at <a href="#" target="_blank">PT Mega Karya Property</a></h4>
+           <p>
+              <b>Roles:</b>
+                <ul>
+                  <li>Maintain database.</li>
+                  <li>Maintain LAN & WAN network</li>
+                  <li>Support and resolve technical problem</li>
+                  <li>Install, modify, and repair computer hardware and software.</li>
+                </ul>
+            </p>
+            <br>
+
+          <h3> 2012-2014</h3> 
+           <h4> IT Support at <a href="#" target="_blank">PT SLP International</a></h4>
+           <p>
+              <b>Roles:</b>
+                <ul>
+                  <li>Maintain database.</li>
+                  <li>Maintain LAN & WAN network</li>
+                  <li>Support and resolve technical problem</li>
+                  <li>Install, modify, and repair computer hardware and software.</li>
                 </ul>
             </p>
            '
          
-    time: 2017 - 2020
+    
 
 studies: 
     - education:
-      degree: (FORMAL) Bachelor of Education
+      degree: (FORMAL) Bachelor of Education.
       university: STKIP Kusuma Negara
       time: 2011 – 2015
-      #details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      #elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      #magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      #pellentesque eu, pretium quis, sem."
+      details: "Mathematics Education"
 
     - education:
       degree: (NON-FORMAL) Certification
@@ -94,7 +118,7 @@ studies:
       degree: (NON-FORMAL) Certification
       university: Udemy.com
       time: 2018 - current
-      Detail: Docker, AWS, GCP.
+      Detail: AWS, GCP.
       
 
 # projects:
@@ -151,15 +175,18 @@ skills:
           name: Container (Docker)
           level: 80%
         - skill:
+          name: Orchestration (Kubernetes)
+          level: 80%
+        - skill:
           name: Cloud Provider (AWS,GCP)
           level: 90%
         - skill:
           name: Shell Script
-          level: 65%
+          level: 80%
         - skill:
           name: Versioning (Git) 
           level: 80%
 
 
 footer: 
-    text: 'Theme <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>'
+    text: 'Theme <i class="fa fa-heart"></i> <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>'
