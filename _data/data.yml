@@ -14,7 +14,7 @@ sidebar:
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
-    email: romi.Afrizal@live.com
+    email: romi.afrizal@live.com
     # phone: 62822 1111 9236
     website: romiafrizal.github.io #do not add http://
     linkedin: romiafrizal
@@ -121,13 +121,13 @@ studies:
     - education:
       degree: (NON-FORMAL) Certification
       university: Hacktiv8.com
-      time: 2018
+      time: 2019
       details: "Devops"
 
     - education:
       degree: (NON-FORMAL) Certification
       university: Udemy.com
-      time: 2018 - current
+      time: 2018 - 2020
       Detail: AWS, GCP.
       
 
