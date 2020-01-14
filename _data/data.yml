@@ -45,15 +45,19 @@ sidebar:
 
 career-profile: 
     title: career-profile
-    text: '<h3> DevOps at <a href="https://bobobobo.com" target="_blank">www.bobobobo.com</a>.</h3><br>
-        <ul>
-          <li>Build and Maintain CI/CD Pipeline on AWS.</li>
-          <li>Implement and improve monitoring and alerting.</li>
-          <li>Maintain daily performance of computer systems.</li>
-          <li>Serving as the first point of contact for users seeking technical assistance  related to computer systems, software, and hardware.over the phone, email or other communication lines.</li>
-          <li>Install, modify, and repair computer hardware and software.</li>
-          <li>Resolve technical problems with Local Area Networks (LAN), Wide Area Networks (WAN), and other systems.</li>
-        </ul>
+    text: '<h3> 2017-2020</h3> 
+           <h4> DevOps at <a href="https://bobobobo.com" target="_blank">www.bobobobo.com</a></h4>
+           <p>
+              <bold>Roles</bold>
+                <ul>
+                  <li>Build and Maintain CI/CD Pipeline on AWS.</li>
+                  <li>Implement and improve monitoring and alerting.</li>
+                  <li>Maintain daily performance of computer systems.</li>
+                  <li>Serving as the first point of contact for users seeking technical assistance  related to computer systems, software, and hardware.over the phone, email or other communication lines.</li>
+                  <li>Install, modify, and repair computer hardware and software.</li>
+                  <li>Resolve technical problems with Local Area Networks (LAN), Wide Area Networks (WAN), and other systems.</li>
+                </ul>
+            </p>
            '
          
     time: 2017 - 2020
