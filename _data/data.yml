@@ -46,7 +46,7 @@ sidebar:
 career-profile: 
     title: Work experience
     text: '<h3> 2017-2020</h3> 
-           <h4> DevOps at <a href="https://bobobobo.com" target="_blank">www.bobobobo.com</a></h4>
+           <h4> DevOps at <a href="https://bobobobo.com" target="_blank">bobobobo.com</a></h4>
            <p>
               <b>Roles:</b>
                 <ul>
@@ -57,8 +57,8 @@ career-profile:
                   <li>Resolve technical problems with Local Area Networks (LAN), Wide Area Networks (WAN), and other systems.</li>
                   <li>Install, modify, and repair computer hardware and software.</li>
                 </ul>
-            </p>
-            <br>
+           </p>
+           <br>
 
           <h3> 2015-2017</h3> 
            <h4> IT Support at <a href="http://kopitiam.co.id" target="_blank">PT Bagus Kopitiam International</a></h4>
@@ -70,8 +70,8 @@ career-profile:
                   <li>Build and maintain VPN beetween HQ and Kopitiam branch/outlet.</li>
                   <li>Maintain LAN & WAN.</li>
                 </ul>
-            </p>
-            <br>
+           </p>
+           <br>
 
           <h3> 2014-2015</h3> 
            <h4> IT Support at <a href="#" target="_blank">PT Mega Karya Property</a></h4>
@@ -83,11 +83,11 @@ career-profile:
                   <li>Support and resolve technical problem</li>
                   <li>Install, modify, and repair computer hardware and software.</li>
                 </ul>
-            </p>
-            <br>
+           </p>
+           <br>
 
-          <h3> 2012-2014</h3> 
-           <h4> IT Support at <a href="#" target="_blank">PT SLP International</a></h4>
+          <h3>2012-2014</h3> 
+           <h4> IT Support at <a href="http://slpintl.com" target="_blank">PT SLP International</a></h4>
            <p>
               <b>Roles:</b>
                 <ul>
@@ -96,7 +96,17 @@ career-profile:
                   <li>Support and resolve technical problem</li>
                   <li>Install, modify, and repair computer hardware and software.</li>
                 </ul>
-            </p>
+           </p>
+           <br>
+
+          <h3>2009-2012</h3> 
+           <h4> Teacher at <a href="http://bimbelpikat.com/" target="_blank">LKP PIKAT</a></h4>
+           <p>
+              <b>Roles:</b>
+                <ul>
+                  <li>Teach mathematics and physics for junior high school students.</li>
+                </ul>
+           </p>
            '
          
     
@@ -169,6 +179,9 @@ skills:
           name: Linux (Debian, RedHat)
           level: 90%
         - skill:
+          name: Cloud Computing (AWS,GCP)
+          level: 90%
+        - skill:
           name: VM (Vagrant)
           level: 80%
         - skill:
@@ -177,9 +190,6 @@ skills:
         - skill:
           name: Orchestration (Kubernetes)
           level: 80%
-        - skill:
-          name: Cloud Provider (AWS,GCP)
-          level: 90%
         - skill:
           name: Shell Script
           level: 80%
