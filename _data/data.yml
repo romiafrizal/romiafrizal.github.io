@@ -94,26 +94,26 @@ studies:
       degree: (NON-FORMAL) Certification
       university: Udemy.com
       time: 2018 - current
-      Detail: Docker, 
+      Detail: Docker, AWS, GCP.
       
 
-projects:
-    title: Projects
-    intro: "My latest projects."
+# projects:
+#     title: Projects
+#     intro: "My latest projects."
     
-    projects:
-      - project:
-        title: Rajahoster.com
-        link: "#hook"
-        tagline: "Web hosting provider."
-      - project:
-        title: SajidAPP
-        link: "#"
-        tagline: "Local android app for Sajid Community."
-      - project:
-        title: Megapro.co.id
-        link: "#"
-        tagline: "Company profile website for PT Mega Karya properti"
+#     projects:
+#       - project:
+#         title: Rajahoster.com
+#         link: "#hook"
+#         tagline: "Web hosting provider."
+#       - project:
+#         title: SajidAPP
+#         link: "#"
+#         tagline: "Local android app for Sajid Community."
+#       - project:
+#         title: Megapro.co.id
+#         link: "#"
+#         tagline: "Company profile website for PT Mega Karya properti"
       #- project:
       #  title: Atom
       #  link: "#"
