@@ -16,7 +16,7 @@ sidebar:
     # Sidebar links
     email: romi.Afrizal@live.com
     phone: 62822 1111 9236
-    website: rajahoster.com #do not add http://
+    website: romiafrizal.github.io #do not add http://
     linkedin: romiafrizal
     github: romiafrizal
     twitter: '@romintel'
@@ -44,9 +44,16 @@ sidebar:
 
 
 career-profile: 
-    title: IT Infrasructure & Network Enginer
-    text: 'IT Infrasructure & Network Enginer at PT. Bobobobo (www.bobobobo.com). You can <a href="#" target="_blank">download CV  here</a>.'
-
+    title: DevOps & Technical Support
+    text: 'DevOps at PT. Bobobobo. Website; <a href="https://bobobobo.com" target="_blank">www.bobobobo.com</a>.'
+    time: 2017 - 2020
+    details: 
+      - Build and Maintain CI/CD Pipeline on AWS.
+      - Implement and improve monitoring and alerting.
+      - Maintain daily performance of computer systems.
+      - Serving as the first point of contact for users seeking technical assistance  related to computer systems, software, and hardware.over the phone, email or other communication lines.
+      - Install, modify, and repair computer hardware and software.
+      - Resolve technical problems with Local Area Networks (LAN), Wide Area Networks (WAN), and other systems.
 
 studies: 
     - education:
@@ -60,10 +67,16 @@ studies:
 
     - education:
       degree: (NON-FORMAL) Certification
-      university: Udemy, Alibaba Cloud
+      university: Hacktiv8.com
       time: 2018
-      details: "Docker Mastery (2018), Bash Shell Scripting (2018), Apsara Clouder: Operate and Manage a Cloud Server on Alibaba Cloud (2018), Apsara Clouder: Deploy an E-commerce on Alibaba Cloud (2018)"
+      details: "Devops"
 
+    - education:
+      degree: (NON-FORMAL) Certification
+      university: Udemy.com
+      time: 2018 - current
+      Detail: Docker, 
+      
 
 projects:
     title: Projects
@@ -92,19 +105,19 @@ projects:
       #  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 
-publications:
-    title: Publications
-    #intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+# publications:
+#     title: Publications
+#     #intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
     
-    publications:
-      - blog:
-        title: romifile.blogspot.com
-        authors: Romi Afrizal
-        conference: Jakarta, 2016
-     #- paper:
-        #title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        #authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        #conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#     publications:
+#       - blog:
+#         title: romifile.blogspot.com
+#         authors: Romi Afrizal
+#         conference: Jakarta, 2016
+#      #- paper:
+#         #title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         #authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         #conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
      
 skills:
     title: Skills &amp; Proficiency
@@ -117,16 +130,16 @@ skills:
           level: 80%
         - skill:
           name: Container (Docker)
-          level: 75%
+          level: 80%
         - skill:
-          name: Cloud (AWS)
-          level: 75%
+          name: Cloud Provider (AWS,GCP)
+          level: 90%
         - skill:
           name: Shell Script
-          level: 75%
+          level: 65%
         - skill:
           name: Versioning (Git) 
-          level: 90%
+          level: 80%
 
 
 footer: 
