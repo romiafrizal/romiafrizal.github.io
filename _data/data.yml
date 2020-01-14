@@ -45,15 +45,16 @@ sidebar:
 
 career-profile: 
     title: DevOps & Technical Support
-    text: 'DevOps at PT. Bobobobo. Website; <a href="https://bobobobo.com" target="_blank">www.bobobobo.com</a>.'
+    text: 'DevOps at PT. Bobobobo. Website: <a href="https://bobobobo.com" target="_blank">www.bobobobo.com</a>. <br>
+          - Build and Maintain CI/CD Pipeline on AWS. <br>
+          - Implement and improve monitoring and alerting. <br>
+          - Maintain daily performance of computer systems. <br>
+          - Serving as the first point of contact for users seeking technical assistance  related to computer systems, software, and hardware.over the phone, email or other communication lines. <br>
+          - Install, modify, and repair computer hardware and software. <br>
+          - Resolve technical problems with Local Area Networks (LAN), Wide Area Networks (WAN), and other systems.
+           '
+         
     time: 2017 - 2020
-    details: 
-      - Build and Maintain CI/CD Pipeline on AWS.
-      - Implement and improve monitoring and alerting.
-      - Maintain daily performance of computer systems.
-      - Serving as the first point of contact for users seeking technical assistance  related to computer systems, software, and hardware.over the phone, email or other communication lines.
-      - Install, modify, and repair computer hardware and software.
-      - Resolve technical problems with Local Area Networks (LAN), Wide Area Networks (WAN), and other systems.
 
 studies: 
     - education:
