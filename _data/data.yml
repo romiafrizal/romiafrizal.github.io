@@ -158,15 +158,15 @@ studies:
       #  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 
-# publications:
-#     title: Publications
-#     #intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+publications:
+    title: Award
+    intro: "Award & Achievements."
     
-#     publications:
-#       - blog:
-#         title: romifile.blogspot.com
-#         authors: Romi Afrizal
-#         conference: Jakarta, 2016
+    publications:
+      - Award:
+        title: The Most Improvement Employee.
+        # authors: Romi Afrizal
+        conference: bobobobo, 2019.
 #      #- paper:
 #         #title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
 #         #authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
