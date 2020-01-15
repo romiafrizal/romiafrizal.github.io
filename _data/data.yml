@@ -114,19 +114,19 @@ career-profile:
 studies: 
     - education:
       degree: (FORMAL) Bachelor of Education.
-      university: (2011–2015) STKIP Kusuma Negara, Jakarta.
+      university: STKIP Kusuma Negara, Jakarta.
       time: 2011 – 2015
       details: "Mathematics Education"
 
     - education:
       degree: Certification
-      university: (2019) Hacktiv8.com
+      university: Hacktiv8.com
       time: 2019
       details: "Devops"
 
     - education:
       degree: Certification
-      university: (2018-2020) Udemy.com
+      university: Udemy.com
       time: 2018 - 2020
       details: AWS, GCP.
       
