@@ -159,8 +159,8 @@ studies:
 
 
 publications:
-    title: Award
-    intro: "Award & Achievements."
+    title: Award & Achievements
+    # intro: "Award & Achievements."
     
     publications:
       - Award:
