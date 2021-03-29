@@ -45,9 +45,26 @@ sidebar:
 
 career-profile: 
     title: Work experience
-    text: '<h3> 2017-2020</h3> 
-           <h4> DevOps at <a href="https://bobobobo.com" target="_blank">Bobobobo.com</a></h4>
+    text: '<h3>April 2020 - Present</h3> 
+           <h4>DevOps Engineer at <a href="https://raudhahpay.com" target="_blank">Raudhahpay.com</a></h4>
            <p>
+              <b>Roles:</b>
+                <ul>
+                  <li>Build and Maintain CI/CD Pipeline with Cloud Build GCP and Runcloud.</li>
+                  <li>Build and Maintain Kubernetes Cluster at GCP.</li>
+                  <li>Build and maintain firewall at GCP Armor.</li>
+                  <li>Maintain 70+ Instances at GCP and 10+ instances at AWS./li>
+                  <li>Maintain 140+ Domain DNS at Godaddy and Cloudflare.</li>
+                  <li>Install, modify, and repair computer hardware and software.</li>
+                  <li>Maintain AWS & GCP services as Administrator.</li>
+                  <li>Implement and improve monitoring and alerting.</li>
+                </ul>
+           </p>
+           <br>
+
+          <h3> Sept 2017 - March 2020</h3> 
+            <h4>Insfrastructure & DevOps Engineer at <a href="https://bobobobo.com" target="_blank">Bobobobo.com</a></h4>
+            <p>
               <b>Roles:</b>
                 <ul>
                   <li>Build and Maintain CI/CD Pipeline on AWS.</li>
@@ -57,12 +74,12 @@ career-profile:
                   <li>Resolve technical problems with Local Area Networks (LAN), Wide Area Networks (WAN), and other systems.</li>
                   <li>Install, modify, and repair computer hardware and software.</li>
                 </ul>
-           </p>
-           <br>
+            </p>
+          <br>
 
-          <h3> 2015-2017</h3> 
-           <h4> IT Support at <a href="http://kopitiam.co.id" target="_blank">PT. Bagus Kopitiam International</a></h4>
-           <p>
+          <h3>Dec 2015 - Sept 2017</h3> 
+            <h4> IT Support at <a href="http://kopitiam.co.id" target="_blank">PT. Bagus Kopitiam International</a></h4>
+            <p>
               <b>Roles:</b>
                 <ul>
                   <li>Serving as the first point of contact for users seeking technical assistance  related to computer systems, software, and hardware over the phone, email or other communication lines.</li>
@@ -70,10 +87,10 @@ career-profile:
                   <li>Build and maintain VPN beetween HQ and Kopitiam branch/outlet.</li>
                   <li>Maintain LAN & WAN.</li>
                 </ul>
-           </p>
-           <br>
+            </p>
+          <br>
 
-          <h3> 2014-2015</h3> 
+          <h3>Aug 2014 - Aug 2015</h3> 
            <h4> IT Support at <a href="#" target="_blank">PT. Mega Karya Property</a></h4>
            <p>
               <b>Roles:</b>
@@ -86,7 +103,7 @@ career-profile:
            </p>
            <br>
 
-          <h3>2012-2014</h3> 
+          <h3>Dec 2012 - Aug 2014</h3> 
            <h4> IT Support at <a href="http://slpintl.com" target="_blank">PT. SLP International</a></h4>
            <p>
               <b>Roles:</b>
@@ -99,7 +116,7 @@ career-profile:
            </p>
            <br>
 
-          <h3>2009-2012</h3> 
+          <h3>Nov 2009 - Jun 2012</h3> 
            <h4> Teacher at <a href="http://bimbelpikat.com/" target="_blank">LKP PIKAT</a></h4>
            <p>
               <b>Roles:</b>
@@ -131,33 +148,6 @@ studies:
       details: AWS, GCP.
       
 
-# projects:
-#     title: Projects
-#     intro: "My latest projects."
-    
-#     projects:
-#       - project:
-#         title: Rajahoster.com
-#         link: "#hook"
-#         tagline: "Web hosting provider."
-#       - project:
-#         title: SajidAPP
-#         link: "#"
-#         tagline: "Local android app for Sajid Community."
-#       - project:
-#         title: Megapro.co.id
-#         link: "#"
-#         tagline: "Company profile website for PT Mega Karya properti"
-      #- project:
-      #  title: Atom
-      #  link: "#"
-      #  tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-      #- project:
-      #  title: Delta
-      #  link: "#"
-      #  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-
 publications:
     title: Award & Achievements
     # intro: "Award & Achievements."
@@ -167,10 +157,6 @@ publications:
         title: The Most Improved Employee.
         # authors: Romi Afrizal
         conference: bobobobo, 2019.
-#      #- paper:
-#         #title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#         #authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#         #conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
      
 skills:
     title: Skills &amp; Proficiency
@@ -199,4 +185,4 @@ skills:
 
 
 footer: 
-    # text: 'Theme <i class="fa fa-heart"></i> <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>'
+    text: 'Themes <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>'
