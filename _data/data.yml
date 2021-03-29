@@ -10,7 +10,7 @@ sidebar:
     
     # Profile information
     name: Romi Afrizal
-    tagline: DevOps
+    tagline: DevOps Engineer
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
@@ -53,7 +53,7 @@ career-profile:
                   <li>Build and Maintain CI/CD Pipeline with Cloud Build GCP and Runcloud.</li>
                   <li>Build and Maintain Kubernetes Cluster at GCP.</li>
                   <li>Build and maintain firewall at GCP Armor.</li>
-                  <li>Maintain 70+ Instances at GCP and 10+ instances at AWS./li>
+                  <li>Maintain 70+ Instances at GCP and 10+ instances at AWS.</li>
                   <li>Maintain 140+ Domain DNS at Godaddy and Cloudflare.</li>
                   <li>Install, modify, and repair computer hardware and software.</li>
                   <li>Maintain AWS & GCP services as Administrator.</li>
@@ -124,9 +124,7 @@ career-profile:
                   <li>Teach Mathematics and Science for middle school students.</li>
                 </ul>
            </p>
-           '
-         
-    
+           '       
 
 studies: 
     - education:
