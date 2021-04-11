@@ -40,9 +40,6 @@ sidebar:
           item: Networking
           link:
 
-
-
-
 career-profile: 
     title: Work experience
     text: '<h3>April 2020 - Present</h3> 
@@ -128,10 +125,10 @@ career-profile:
 
 studies: 
     - education:
-      degree: (FORMAL) Bachelor of Education.
+      degree: Sarjana Pendidikan.
       university: STKIP Kusuma Negara, Jakarta.
       time: 2011 – 2015
-      details: "Mathematics Education"
+      details: "Pendidikan Matematika"
 
     - education:
       degree: Certification
